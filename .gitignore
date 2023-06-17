@@ -1,0 +1,11 @@
+**/target
+**/*.iml
+**/.idea
+**/test/resources/*DS.properties
+**/nb-configuration.xml
+**/nbactions.xml
+**/nbproject
+**/.project
+**/.classpath
+**/.settings
+**/.metadata

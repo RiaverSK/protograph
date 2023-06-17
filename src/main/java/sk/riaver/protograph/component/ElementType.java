@@ -1,0 +1,7 @@
+package sk.riaver.protograph.component;
+
+public enum ElementType {
+	
+	MESSAGE,SERVICE,ENUM,FIELD,MAPFIELD,GROUP,ONEOF,METHOD,ENUMVALUE,METHODINOUT,EXTENSION,TYPECHOOSER
+
+}
